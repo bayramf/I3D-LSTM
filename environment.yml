@@ -212,5 +212,5 @@ dependencies:
     - wrapt==1.12.1
     - yapf==0.30.0
     - zipp==3.4.0
-prefix: C:\Users\salus\.conda\envs\i3d-lstm
+prefix: C:\Users\.conda\envs\i3d-lstm
 
